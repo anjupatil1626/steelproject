@@ -13,10 +13,21 @@
 @media screen and (max-width:700px) {
   .navbar-nav{
     margin-left:0px;
-    margin-left:200px;
    
   }
+  .imr img{
+    margin-top: 34px;
+    margin-left:24px;
+ }
+ .ab{
+  margin-left:10px;
+  width:100%;
+ }
+ .as{
+  margin-top: 12px;
+ }
 }
+
 .nav-link{
   margin-left: 20px;
   font-family:cursive
